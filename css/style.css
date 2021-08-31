@@ -1070,6 +1070,7 @@ figure:hover figcaption, figure:focus figcaption {
   }
   .container{
     height: 45vh;
+    background-color: red;
   }
 }
 
