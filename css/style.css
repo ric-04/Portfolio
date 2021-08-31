@@ -1071,9 +1071,7 @@ figure:hover figcaption, figure:focus figcaption {
   .slides-text{
     height: 60vh;
     overflow: visible;
-  }
-  footer{
-    margin-top: -50px;
+    display: flex;
   }
 }
 
