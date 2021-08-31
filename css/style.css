@@ -1069,9 +1069,10 @@ figure:hover figcaption, figure:focus figcaption {
     font-size: .85rem;
   }
   .slides-text{
-    height: 60vh;
-    overflow: visible;
-    display: flex;
+    overflow: hidden;
+    margin: auto;
+    min-height: 100px ;
+    height: fit-content;
   }
 }
 
