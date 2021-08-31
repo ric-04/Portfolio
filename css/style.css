@@ -1066,11 +1066,11 @@ figure:hover figcaption, figure:focus figcaption {
 
 @media screen and (max-width: 768px) {
   .slides-text p {
-    font-size: 16px;
-    color:red
+    font-size: .85rem;
   }
-  .container{
-    height: 45vh
+  .slides-text{
+    height: 60vh;
+    overflow: auto;
   }
 }
 
