@@ -1066,13 +1066,7 @@ figure:hover figcaption, figure:focus figcaption {
 
 @media screen and (max-width: 768px) {
   .slides-text p {
-    font-size: .85rem;
-  }
-  .slides-text{
-    overflow: hidden;
-    margin: auto;
-    min-height: 100px ;
-    height: fit-content;
+    font-size: .83rem;
   }
 }
 
